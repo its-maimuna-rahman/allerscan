@@ -1,0 +1,613 @@
+{
+  "typed_aliases": {
+    "cows milk": "cow_milk",
+    "cow's milk": "cow_milk",
+    "cows' milk": "cow_milk",
+    "cow milk": "cow_milk",
+    "pea nut": "peanut",
+    "pea nuts": "peanut",
+    "chicken egg": "chicken_egg",
+    "chicken's egg": "chicken_egg",
+    "hen egg": "chicken_egg",
+    "hen's egg": "chicken_egg",
+    "soya": "soybean",
+    "soya bean": "soybean",
+    "soya beans": "soybean",
+    "soy": "soybean",
+    "soy bean": "soybean",
+    "soy beans": "soybean",
+    "garbanzo": "chickpea",
+    "garbanzo bean": "chickpea",
+    "garbanzo beans": "chickpea",
+    "filbert": "hazelnut",
+    "filberts": "hazelnut",
+    "cobnut": "hazelnut",
+    "cobnuts": "hazelnut",
+    "prawn": "shrimp",
+    "prawns": "shrimp",
+    "scampi": "lobster",
+    "crawfish": "crayfish",
+    "crawdad": "crayfish",
+    "calamari": "squid",
+    "octopi": "octopus",
+    "aubergine": "eggplant",
+    "aubergines": "eggplant",
+    "brinjal": "eggplant",
+    "capsicum": "bell_pepper",
+    "sweet pepper": "bell_pepper",
+    "sweet peppers": "bell_pepper",
+    "bell pepper": "bell_pepper",
+    "bell peppers": "bell_pepper",
+    "rockmelon": "melon",
+    "muskmelon": "melon",
+    "groundnut": "peanut",
+    "groundnuts": "peanut",
+    "earthnut": "peanut",
+    "monkey nut": "peanut",
+    "monkey nuts": "peanut"
+  },
+  "groups": {
+    "tree nuts": {
+      "display_name": "Tree nuts",
+      "members": [
+        "brazil_nut",
+        "english_walnut",
+        "black_walnut",
+        "cashew",
+        "hazelnut",
+        "pistachio",
+        "macadamia_nut",
+        "pecan",
+        "almond",
+        "chestnut"
+      ],
+      "message": "Tree nuts: 10 tree nut foods added."
+    },
+    "tree nut": {
+      "display_name": "Tree nuts",
+      "members": [
+        "brazil_nut",
+        "english_walnut",
+        "black_walnut",
+        "cashew",
+        "hazelnut",
+        "pistachio",
+        "macadamia_nut",
+        "pecan",
+        "almond",
+        "chestnut"
+      ],
+      "message": "Tree nuts: 10 tree nut foods added."
+    },
+    "treenuts": {
+      "display_name": "Tree nuts",
+      "members": [
+        "brazil_nut",
+        "english_walnut",
+        "black_walnut",
+        "cashew",
+        "hazelnut",
+        "pistachio",
+        "macadamia_nut",
+        "pecan",
+        "almond",
+        "chestnut"
+      ],
+      "message": "Tree nuts: 10 tree nut foods added."
+    },
+    "treenut": {
+      "display_name": "Tree nuts",
+      "members": [
+        "brazil_nut",
+        "english_walnut",
+        "black_walnut",
+        "cashew",
+        "hazelnut",
+        "pistachio",
+        "macadamia_nut",
+        "pecan",
+        "almond",
+        "chestnut"
+      ],
+      "message": "Tree nuts: 10 tree nut foods added."
+    },
+    "shellfish": {
+      "display_name": "Shellfish",
+      "members": [
+        "shrimp",
+        "crab",
+        "lobster",
+        "crayfish",
+        "krill",
+        "squid",
+        "octopus",
+        "cuttlefish",
+        "clam",
+        "oyster",
+        "mussel",
+        "scallop",
+        "snail",
+        "abalone",
+        "whelk"
+      ],
+      "message": "Shellfish: 15 crustaceans and molluscs added (not shrimp alone)."
+    },
+    "shell fish": {
+      "display_name": "Shellfish",
+      "members": [
+        "shrimp",
+        "crab",
+        "lobster",
+        "crayfish",
+        "krill",
+        "squid",
+        "octopus",
+        "cuttlefish",
+        "clam",
+        "oyster",
+        "mussel",
+        "scallop",
+        "snail",
+        "abalone",
+        "whelk"
+      ],
+      "message": "Shellfish: 15 crustaceans and molluscs added (not shrimp alone)."
+    },
+    "shell-fish": {
+      "display_name": "Shellfish",
+      "members": [
+        "shrimp",
+        "crab",
+        "lobster",
+        "crayfish",
+        "krill",
+        "squid",
+        "octopus",
+        "cuttlefish",
+        "clam",
+        "oyster",
+        "mussel",
+        "scallop",
+        "snail",
+        "abalone",
+        "whelk"
+      ],
+      "message": "Shellfish: 15 crustaceans and molluscs added (not shrimp alone)."
+    },
+    "seafood": {
+      "display_name": "Seafood",
+      "members": [
+        "ray",
+        "shark",
+        "cod",
+        "salmon",
+        "tuna",
+        "carp",
+        "tilapia",
+        "trout",
+        "mackerel",
+        "sardine",
+        "anchovy",
+        "herring",
+        "halibut",
+        "flounder",
+        "sole",
+        "haddock",
+        "pollock",
+        "catfish",
+        "perch",
+        "bass",
+        "swordfish",
+        "snapper",
+        "grouper",
+        "mahi_mahi",
+        "eel",
+        "shrimp",
+        "crab",
+        "lobster",
+        "crayfish",
+        "krill",
+        "squid",
+        "octopus",
+        "cuttlefish",
+        "clam",
+        "oyster",
+        "mussel",
+        "scallop",
+        "snail",
+        "abalone",
+        "whelk"
+      ],
+      "message": "Seafood: 40 fish, crustacean and mollusc species added."
+    },
+    "sea food": {
+      "display_name": "Seafood",
+      "members": [
+        "ray",
+        "shark",
+        "cod",
+        "salmon",
+        "tuna",
+        "carp",
+        "tilapia",
+        "trout",
+        "mackerel",
+        "sardine",
+        "anchovy",
+        "herring",
+        "halibut",
+        "flounder",
+        "sole",
+        "haddock",
+        "pollock",
+        "catfish",
+        "perch",
+        "bass",
+        "swordfish",
+        "snapper",
+        "grouper",
+        "mahi_mahi",
+        "eel",
+        "shrimp",
+        "crab",
+        "lobster",
+        "crayfish",
+        "krill",
+        "squid",
+        "octopus",
+        "cuttlefish",
+        "clam",
+        "oyster",
+        "mussel",
+        "scallop",
+        "snail",
+        "abalone",
+        "whelk"
+      ],
+      "message": "Seafood: 40 fish, crustacean and mollusc species added."
+    },
+    "fish": {
+      "display_name": "Fish",
+      "members": [
+        "ray",
+        "shark",
+        "cod",
+        "salmon",
+        "tuna",
+        "carp",
+        "tilapia",
+        "trout",
+        "mackerel",
+        "sardine",
+        "anchovy",
+        "herring",
+        "halibut",
+        "flounder",
+        "sole",
+        "haddock",
+        "pollock",
+        "catfish",
+        "perch",
+        "bass",
+        "swordfish",
+        "snapper",
+        "grouper",
+        "mahi_mahi",
+        "eel"
+      ],
+      "message": "Fish: 25 fish species added."
+    },
+    "fin fish": {
+      "display_name": "Fish",
+      "members": [
+        "ray",
+        "shark",
+        "cod",
+        "salmon",
+        "tuna",
+        "carp",
+        "tilapia",
+        "trout",
+        "mackerel",
+        "sardine",
+        "anchovy",
+        "herring",
+        "halibut",
+        "flounder",
+        "sole",
+        "haddock",
+        "pollock",
+        "catfish",
+        "perch",
+        "bass",
+        "swordfish",
+        "snapper",
+        "grouper",
+        "mahi_mahi",
+        "eel"
+      ],
+      "message": "Fish: 25 fish species added."
+    },
+    "finfish": {
+      "display_name": "Fish",
+      "members": [
+        "ray",
+        "shark",
+        "cod",
+        "salmon",
+        "tuna",
+        "carp",
+        "tilapia",
+        "trout",
+        "mackerel",
+        "sardine",
+        "anchovy",
+        "herring",
+        "halibut",
+        "flounder",
+        "sole",
+        "haddock",
+        "pollock",
+        "catfish",
+        "perch",
+        "bass",
+        "swordfish",
+        "snapper",
+        "grouper",
+        "mahi_mahi",
+        "eel"
+      ],
+      "message": "Fish: 25 fish species added."
+    },
+    "finned fish": {
+      "display_name": "Fish",
+      "members": [
+        "ray",
+        "shark",
+        "cod",
+        "salmon",
+        "tuna",
+        "carp",
+        "tilapia",
+        "trout",
+        "mackerel",
+        "sardine",
+        "anchovy",
+        "herring",
+        "halibut",
+        "flounder",
+        "sole",
+        "haddock",
+        "pollock",
+        "catfish",
+        "perch",
+        "bass",
+        "swordfish",
+        "snapper",
+        "grouper",
+        "mahi_mahi",
+        "eel"
+      ],
+      "message": "Fish: 25 fish species added."
+    },
+    "legumes": {
+      "display_name": "Legumes & pulses",
+      "members": [
+        "soybean",
+        "mung_bean",
+        "chickpea",
+        "lupin",
+        "lentil",
+        "pea",
+        "green_bean"
+      ],
+      "message": "Legumes & pulses: 7 foods added."
+    },
+    "legume": {
+      "display_name": "Legumes & pulses",
+      "members": [
+        "soybean",
+        "mung_bean",
+        "chickpea",
+        "lupin",
+        "lentil",
+        "pea",
+        "green_bean"
+      ],
+      "message": "Legumes & pulses: 7 foods added."
+    },
+    "pulses": {
+      "display_name": "Legumes & pulses",
+      "members": [
+        "soybean",
+        "mung_bean",
+        "chickpea",
+        "lupin",
+        "lentil",
+        "pea",
+        "green_bean"
+      ],
+      "message": "Legumes & pulses: 7 foods added."
+    },
+    "pulse": {
+      "display_name": "Legumes & pulses",
+      "members": [
+        "soybean",
+        "mung_bean",
+        "chickpea",
+        "lupin",
+        "lentil",
+        "pea",
+        "green_bean"
+      ],
+      "message": "Legumes & pulses: 7 foods added."
+    },
+    "beans": {
+      "display_name": "Legumes & pulses",
+      "members": [
+        "soybean",
+        "mung_bean",
+        "chickpea",
+        "lupin",
+        "lentil",
+        "pea",
+        "green_bean"
+      ],
+      "message": "Legumes & pulses: 7 foods added."
+    },
+    "cereals": {
+      "display_name": "Cereals & grains",
+      "members": [
+        "wheat",
+        "barley",
+        "rye",
+        "spelt",
+        "kamut",
+        "triticale",
+        "corn",
+        "sorghum",
+        "millet",
+        "oats",
+        "rice",
+        "quinoa"
+      ],
+      "message": "Cereals & grains: 12 cereal grains added."
+    },
+    "cereal": {
+      "display_name": "Cereals & grains",
+      "members": [
+        "wheat",
+        "barley",
+        "rye",
+        "spelt",
+        "kamut",
+        "triticale",
+        "corn",
+        "sorghum",
+        "millet",
+        "oats",
+        "rice",
+        "quinoa"
+      ],
+      "message": "Cereals & grains: 12 cereal grains added."
+    },
+    "grains": {
+      "display_name": "Cereals & grains",
+      "members": [
+        "wheat",
+        "barley",
+        "rye",
+        "spelt",
+        "kamut",
+        "triticale",
+        "corn",
+        "sorghum",
+        "millet",
+        "oats",
+        "rice",
+        "quinoa"
+      ],
+      "message": "Cereals & grains: 12 cereal grains added."
+    },
+    "grain": {
+      "display_name": "Cereals & grains",
+      "members": [
+        "wheat",
+        "barley",
+        "rye",
+        "spelt",
+        "kamut",
+        "triticale",
+        "corn",
+        "sorghum",
+        "millet",
+        "oats",
+        "rice",
+        "quinoa"
+      ],
+      "message": "Cereals & grains: 12 cereal grains added."
+    },
+    "gluten": {
+      "display_name": "Gluten-containing grains",
+      "members": [
+        "wheat",
+        "barley",
+        "rye",
+        "spelt",
+        "kamut",
+        "triticale"
+      ],
+      "message": "Gluten: wheat, barley, rye, spelt, kamut, and triticale added. (Note: oats are handled separately.)"
+    },
+    "dairy": {
+      "display_name": "Dairy (cow's milk)",
+      "members": [
+        "cow_milk"
+      ],
+      "message": "Dairy: cow's milk added (the model automatically links it to sheep and goat milk)."
+    },
+    "milk": {
+      "display_name": "Dairy (cow's milk)",
+      "members": [
+        "cow_milk"
+      ],
+      "message": "Dairy: cow's milk added (the model automatically links it to sheep and goat milk)."
+    }
+  },
+  "ask_which": {
+    "nuts": {
+      "prompt": "Do you mean peanut (a legume), tree nuts, or both?",
+      "options": [
+        {
+          "label": "Peanut only",
+          "keys": [
+            "peanut"
+          ]
+        },
+        {
+          "label": "Tree nuts (all 10)",
+          "group": "tree_nut"
+        },
+        {
+          "label": "Both peanut & tree nuts",
+          "keys": [
+            "peanut"
+          ],
+          "group": "tree_nut"
+        }
+      ]
+    },
+    "nut": {
+      "prompt": "Do you mean peanut (a legume), tree nuts, or both?",
+      "options": [
+        {
+          "label": "Peanut only",
+          "keys": [
+            "peanut"
+          ]
+        },
+        {
+          "label": "Tree nuts (all 10)",
+          "group": "tree_nut"
+        },
+        {
+          "label": "Both peanut & tree nuts",
+          "keys": [
+            "peanut"
+          ],
+          "group": "tree_nut"
+        }
+      ]
+    }
+  },
+  "over_broad": {
+    "fruit": "Fruit is very broad. Please name specific fruits (e.g. apple, peach, kiwi), or keep it as a custom allergen.",
+    "fruits": "Fruits is very broad. Please name specific fruits (e.g. apple, peach, kiwi), or keep it as a custom allergen.",
+    "vegetable": "Vegetable is very broad. Please name specific vegetables (e.g. celery, tomato, carrot), or keep it as a custom allergen.",
+    "vegetables": "Vegetables is very broad. Please name specific vegetables (e.g. celery, tomato, carrot), or keep it as a custom allergen.",
+    "veggies": "Vegetables is very broad. Please name specific vegetables (e.g. celery, tomato, carrot), or keep it as a custom allergen.",
+    "veg": "Vegetables is very broad. Please name specific vegetables (e.g. celery, tomato, carrot), or keep it as a custom allergen.",
+    "meat": "Meat is very broad. Please name specific meats (e.g. beef, pork, chicken), or keep it as a custom allergen.",
+    "meats": "Meats is very broad. Please name specific meats (e.g. beef, pork, chicken), or keep it as a custom allergen."
+  }
+}

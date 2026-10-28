@@ -1,0 +1,102 @@
+{
+  "timestamp": "2026-10-28T11:26:26Z",
+  "total_test_cases": 22,
+  "total_expected_allergens": 85,
+  "overall_route_a_recall_pct": 96.47,
+  "overall_fused_recall_pct": 96.47,
+  "overall_fused_precision_pct": 96.47,
+  "avg_latency_ms": 68.47,
+  "safety_tests_passed": 6,
+  "per_language_results": {
+    "bn": {
+      "expected": 13,
+      "route_a_hits": 13,
+      "route_b_hits": 13,
+      "fused_hits": 13
+    },
+    "hi": {
+      "expected": 6,
+      "route_a_hits": 6,
+      "route_b_hits": 6,
+      "fused_hits": 6
+    },
+    "ur": {
+      "expected": 3,
+      "route_a_hits": 3,
+      "route_b_hits": 3,
+      "fused_hits": 3
+    },
+    "ar": {
+      "expected": 6,
+      "route_a_hits": 6,
+      "route_b_hits": 6,
+      "fused_hits": 6
+    },
+    "fr": {
+      "expected": 6,
+      "route_a_hits": 6,
+      "route_b_hits": 6,
+      "fused_hits": 6
+    },
+    "de": {
+      "expected": 8,
+      "route_a_hits": 6,
+      "route_b_hits": 6,
+      "fused_hits": 6
+    },
+    "es": {
+      "expected": 4,
+      "route_a_hits": 4,
+      "route_b_hits": 4,
+      "fused_hits": 4
+    },
+    "it": {
+      "expected": 4,
+      "route_a_hits": 4,
+      "route_b_hits": 4,
+      "fused_hits": 4
+    },
+    "pt": {
+      "expected": 5,
+      "route_a_hits": 5,
+      "route_b_hits": 5,
+      "fused_hits": 5
+    },
+    "ru": {
+      "expected": 5,
+      "route_a_hits": 4,
+      "route_b_hits": 4,
+      "fused_hits": 4
+    },
+    "tr": {
+      "expected": 4,
+      "route_a_hits": 4,
+      "route_b_hits": 4,
+      "fused_hits": 4
+    },
+    "zh-CN": {
+      "expected": 5,
+      "route_a_hits": 5,
+      "route_b_hits": 5,
+      "fused_hits": 5
+    },
+    "ja": {
+      "expected": 6,
+      "route_a_hits": 6,
+      "route_b_hits": 6,
+      "fused_hits": 6
+    },
+    "th": {
+      "expected": 5,
+      "route_a_hits": 5,
+      "route_b_hits": 5,
+      "fused_hits": 5
+    },
+    "id": {
+      "expected": 5,
+      "route_a_hits": 5,
+      "route_b_hits": 5,
+      "fused_hits": 5
+    }
+  }
+}

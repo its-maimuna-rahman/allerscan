@@ -1,0 +1,13 @@
+ALLERSCAN ASTHMA DATA VALIDATION REPORT
+
+[PASS] 1. Prevalence targets (overall, cohort, age bands) inside specification ranges
+[PASS] 2. Severity mix among asthmatics per cohort inside target ranges
+[PASS] 3. Eczema comorbidity (OR = 1.837 > 1.2)
+[PASS] 4. Family history comorbidity (OR = 1.541 > 1.2)
+[PASS] 5. Egg/peanut/tree-nut asthma prevalence (38.4%) > other allergens (34.0%)
+[PASS] 6. Sex direction by age (child boys 46.4% > girls 40.4%; adult women 31.7% > men 27.2%)
+[PASS] 7. Severe reaction risk monotonic and inside calibrated ranges (RR: 1.10, 1.51, 2.01; OR: 1.15, 1.86, 3.22)
+[PASS] 8. Missing rate (~15.8%) & legacy 'yes' properly converted to NaN (114 rows)
+[PASS] 9. Overall severity shares within 2% of 35/35/30 (34.6% / 35.5% / 29.9%)
+
+Overall: ALL PASS

@@ -1,0 +1,99 @@
+{
+  "check_1_prevalence": {
+    "overall": 0.35,
+    "cohorts": {
+      "eu_anaphylaxis_registry": 0.431,
+      "pollen_food_clinic": 0.339,
+      "south_asia_clinic": 0.346,
+      "us_adult_survey": 0.263,
+      "us_child_survey": 0.412
+    },
+    "child_under_18": 0.437,
+    "adult_18_plus": 0.297,
+    "status": "PASS"
+  },
+  "check_2_severity_mix": {
+    "mix_by_cohort": {
+      "eu_anaphylaxis_registry": {
+        "mild": 0.452,
+        "moderate": 0.333,
+        "severe": 0.215
+      },
+      "pollen_food_clinic": {
+        "mild": 0.716,
+        "moderate": 0.212,
+        "severe": 0.072
+      },
+      "south_asia_clinic": {
+        "mild": 0.566,
+        "moderate": 0.302,
+        "severe": 0.132
+      },
+      "us_adult_survey": {
+        "mild": 0.569,
+        "moderate": 0.337,
+        "severe": 0.095
+      },
+      "us_child_survey": {
+        "mild": 0.654,
+        "moderate": 0.263,
+        "severe": 0.083
+      }
+    },
+    "status": "PASS"
+  },
+  "check_3_eczema": {
+    "rate_in_asthmatics": 0.277,
+    "rate_in_non_asthmatics": 0.173,
+    "odds_ratio": 1.837,
+    "status": "PASS"
+  },
+  "check_4_family_history": {
+    "rate_in_asthmatics": 0.469,
+    "rate_in_non_asthmatics": 0.364,
+    "odds_ratio": 1.541,
+    "status": "PASS"
+  },
+  "check_5_target_allergens": {
+    "asthma_share_egg_peanut_treenut": 0.384,
+    "asthma_share_other": 0.34,
+    "status": "PASS"
+  },
+  "check_6_sex_by_age": {
+    "child_boys": 0.464,
+    "child_girls": 0.404,
+    "adult_women": 0.317,
+    "adult_men": 0.272,
+    "status": "PASS"
+  },
+  "check_7_severity_effects": {
+    "P_severe_by_asthma": {
+      "level_0": 0.272,
+      "level_1": 0.3001,
+      "level_2": 0.4103,
+      "level_3": 0.5462
+    },
+    "relative_risks": {
+      "RR_1": 1.103,
+      "RR_2": 1.508,
+      "RR_3": 2.008
+    },
+    "odds_ratios": {
+      "OR_1": 1.148,
+      "OR_2": 1.862,
+      "OR_3": 3.222
+    },
+    "status": "PASS"
+  },
+  "check_8_missing_and_legacy": {
+    "missing_share": 0.158,
+    "legacy_yes_converted": 114,
+    "status": "PASS"
+  },
+  "check_9_overall_severity": {
+    "level_1": 0.346,
+    "level_2": 0.355,
+    "level_3": 0.299,
+    "status": "PASS"
+  }
+}

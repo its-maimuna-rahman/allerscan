@@ -1,0 +1,138 @@
+{
+  "cleaning": {
+    "rows_in": 50000,
+    "exact_duplicates_dropped": 200,
+    "allergen_names_changed": 17651,
+    "unknown_allergen_dropped": 183,
+    "unreadable_reacted_dropped": 0,
+    "invalid_severity_dropped": 78,
+    "legacy_asthma_answers_set_missing": 114,
+    "asthma_level_counts": {
+      "0": 27114,
+      "1": 8583,
+      "2": 4288,
+      "3": 1731,
+      "missing": 7823
+    },
+    "impossible_age_set_missing": 189,
+    "profile_target_contradictions_dropped": 0,
+    "same_person_question_dropped": 217,
+    "protein_flag_cells_repaired": 6242,
+    "missing_after_cleaning": {
+      "age": 1518,
+      "sex": 825,
+      "has_asthma": 7794,
+      "has_eczema": 949,
+      "family_history_allergy": 2685
+    },
+    "rows_out": 49322,
+    "persons": 21876
+  },
+  "folds_chosen": 5,
+  "ensemble_blend": {
+    "lgb": 0.35,
+    "cat": 0.35,
+    "xgb": 0.3
+  },
+  "severe_threshold": 0.435,
+  "severity_oof": {
+    "n": 26345,
+    "accuracy": 0.8848,
+    "within_one": 0.9981,
+    "macro_f1": 0.8846,
+    "qwk": 0.9065,
+    "logloss": 0.3112,
+    "mean_abs_err": 0.1171,
+    "severe_auc": 0.9747,
+    "severe_recall": 0.8812,
+    "severe_precision": 0.8836
+  },
+  "severity_test_plain": {
+    "n": 6590,
+    "accuracy": 0.8873,
+    "within_one": 0.998,
+    "macro_f1": 0.8872,
+    "qwk": 0.908,
+    "logloss": 0.3065,
+    "mean_abs_err": 0.1147,
+    "severe_auc": 0.9761,
+    "severe_recall": 0.8665,
+    "severe_precision": 0.9035
+  },
+  "severity_test_rule": {
+    "n": 6590,
+    "accuracy": 0.8869,
+    "within_one": 0.9979,
+    "macro_f1": 0.8867,
+    "qwk": 0.9083,
+    "logloss": 0.3065,
+    "mean_abs_err": 0.1152,
+    "severe_auc": 0.9761,
+    "severe_recall": 0.8845,
+    "severe_precision": 0.8876
+  },
+  "reactivity_test": {
+    "n": 4796,
+    "auc": 0.9056,
+    "avg_precision": 0.8257,
+    "logloss": 0.3566,
+    "brier": 0.1139,
+    "base_rate": 0.3186,
+    "baseline_logloss": 0.6258,
+    "ece": 0.0192
+  },
+  "probes_passed": "13/15",
+  "leave_one_source_out": [
+    {
+      "index": "eu_anaphylaxis_registry",
+      "n": 4375.0,
+      "accuracy": 0.6521,
+      "within_one": 0.9803,
+      "qwk": 0.6692,
+      "logloss": 0.9061,
+      "severe_auc": 0.9771,
+      "severe_recall": 0.6465
+    },
+    {
+      "index": "pollen_food_clinic",
+      "n": 3495.0,
+      "accuracy": 0.867,
+      "within_one": 0.9989,
+      "qwk": 0.7463,
+      "logloss": 0.3542,
+      "severe_auc": 0.9882,
+      "severe_recall": 0.9245
+    },
+    {
+      "index": "south_asia_clinic",
+      "n": 8123.0,
+      "accuracy": 0.8611,
+      "within_one": 0.9999,
+      "qwk": 0.8681,
+      "logloss": 0.3581,
+      "severe_auc": 0.9684,
+      "severe_recall": 0.8944
+    },
+    {
+      "index": "us_adult_survey",
+      "n": 9361.0,
+      "accuracy": 0.8618,
+      "within_one": 0.9993,
+      "qwk": 0.8822,
+      "logloss": 0.3412,
+      "severe_auc": 0.9645,
+      "severe_recall": 0.8505
+    },
+    {
+      "index": "us_child_survey",
+      "n": 7581.0,
+      "accuracy": 0.8608,
+      "within_one": 0.9996,
+      "qwk": 0.8739,
+      "logloss": 0.3552,
+      "severe_auc": 0.9765,
+      "severe_recall": 0.9005
+    }
+  ],
+  "minutes": 2.52
+}

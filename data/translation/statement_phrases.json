@@ -1,0 +1,363 @@
+{
+  "en": {
+    "headers": [
+      "ingredients:",
+      "contains:",
+      "allergens:",
+      "composition:",
+      "contents:"
+    ],
+    "may_contain": [
+      "may contain",
+      "traces of",
+      "manufactured in a facility",
+      "processed on shared equipment",
+      "made on line"
+    ],
+    "free_from": [
+      "free from",
+      "without",
+      "no added",
+      "gluten free",
+      "dairy free",
+      "peanut free",
+      "non-contain"
+    ]
+  },
+  "bn": {
+    "headers": [
+      "উপকরণ:",
+      "উপাদান:",
+      "উপাদানসমূহ:",
+      "উপকরণসমূহ:",
+      "তৈরির উপাদান:",
+      "মিশ্রণ:"
+    ],
+    "may_contain": [
+      "থাকতে পারে",
+      "হতে পারে",
+      "চিহ্ন থাকতে পারে",
+      "একই কারখানায় উৎপাদিত",
+      "একই লাইনে তৈরি",
+      "স্পর্শ থাকতে পারে"
+    ],
+    "free_from": [
+      "মুক্ত",
+      "ছাড়া",
+      "বিহীন",
+      "নেই",
+      "গ্লুটেন মুক্ত",
+      "দুধ ছাড়া",
+      "চিনাবাদাম মুক্ত"
+    ]
+  },
+  "hi": {
+    "headers": [
+      "सामग्री:",
+      "घटक:",
+      "अवयव:",
+      "संघटक:"
+    ],
+    "may_contain": [
+      "हो सकता है",
+      "अंश हो सकते हैं",
+      "शामिल हो सकते हैं",
+      "उसी संयंत्र में निर्मित"
+    ],
+    "free_from": [
+      "मुक्त",
+      "रहित",
+      "बिना",
+      "ग्लूटेन मुक्त",
+      "दूध रहित"
+    ]
+  },
+  "ur": {
+    "headers": [
+      "اجزاء:",
+      "اجزائے ترکیبی:",
+      "مشتملات:"
+    ],
+    "may_contain": [
+      "ہو سکتا ہے",
+      "کے نشانات ہو سکتے ہیں",
+      "ایک ہی فیکٹری میں تیار"
+    ],
+    "free_from": [
+      "سے پاک",
+      "کے بغیر",
+      "گلوٹن سے پاک"
+    ]
+  },
+  "ar": {
+    "headers": [
+      "المكونات:",
+      "المحتويات:",
+      "عناصر:"
+    ],
+    "may_contain": [
+      "قد يحتوي على",
+      "قد يحتوي",
+      "آثار من",
+      "صنع في منشأة",
+      "يعالج في نفس الخط"
+    ],
+    "free_from": [
+      "خالٍ من",
+      "خالي من",
+      "بدون",
+      "خالي من الغلوتين",
+      "خالي من الحليب"
+    ]
+  },
+  "fr": {
+    "headers": [
+      "ingrédients:",
+      "ingredients:",
+      "composition:",
+      "teneur:"
+    ],
+    "may_contain": [
+      "peut contenir",
+      "traces de",
+      "traces éventuelles",
+      "fabriqué dans un atelier qui utilise",
+      "élaboré dans une usine"
+    ],
+    "free_from": [
+      "sans",
+      "dépourvu de",
+      "sans gluten",
+      "sans lait",
+      "exempt de"
+    ]
+  },
+  "de": {
+    "headers": [
+      "zutaten:",
+      "inhaltsstoffe:",
+      "zusammensetzung:"
+    ],
+    "may_contain": [
+      "kann spuren enthalten von",
+      "kann enthalten",
+      "hergestellt in einem betrieb der",
+      "in einem werk hergestellt"
+    ],
+    "free_from": [
+      "ohne",
+      "frei von",
+      "glutenfrei",
+      "laktosefrei"
+    ]
+  },
+  "es": {
+    "headers": [
+      "ingredientes:",
+      "contenido:",
+      "composición:"
+    ],
+    "may_contain": [
+      "puede contener",
+      "trazas de",
+      "elaborado en una fábrica que procesa",
+      "producido en una línea"
+    ],
+    "free_from": [
+      "sin",
+      "libre de",
+      "sin gluten",
+      "sin lactosa",
+      "carente de"
+    ]
+  },
+  "it": {
+    "headers": [
+      "ingredienti:",
+      "composizione:"
+    ],
+    "may_contain": [
+      "può contenere",
+      "tracce di",
+      "prodotto in uno stabilimento che lavora"
+    ],
+    "free_from": [
+      "senza",
+      "privo di",
+      "senza glutine",
+      "senza lattosio"
+    ]
+  },
+  "pt": {
+    "headers": [
+      "ingredientes:",
+      "composição:"
+    ],
+    "may_contain": [
+      "pode conter",
+      "vestígios de",
+      "traços de",
+      "produzido numa fábrica que"
+    ],
+    "free_from": [
+      "sem",
+      "isento de",
+      "sem glúten",
+      "sem lactose"
+    ]
+  },
+  "ru": {
+    "headers": [
+      "состав:",
+      "ингредиенты:"
+    ],
+    "may_contain": [
+      "может содержать следы",
+      "может содержать",
+      "произведено на предприятии, использующем"
+    ],
+    "free_from": [
+      "без",
+      "не содержит",
+      "без глютена",
+      "без лактозы"
+    ]
+  },
+  "tr": {
+    "headers": [
+      "içindekiler:",
+      "bileşenler:",
+      "içerik:"
+    ],
+    "may_contain": [
+      "içerebilir",
+      "eser miktarda içerebilir",
+      "aynı hatta üretilmiştir"
+    ],
+    "free_from": [
+      "içermez",
+      "glütensiz",
+      "sütsüz",
+      "katkısız"
+    ]
+  },
+  "zh-CN": {
+    "headers": [
+      "配料:",
+      "配料表:",
+      "成分:",
+      "主要配料:"
+    ],
+    "may_contain": [
+      "可能含有",
+      "此生产线也加工",
+      "此工厂也处理",
+      "含有微量"
+    ],
+    "free_from": [
+      "不含",
+      "无",
+      "不含麸质",
+      "无乳糖"
+    ]
+  },
+  "zh-TW": {
+    "headers": [
+      "配料:",
+      "成分:",
+      "原料:"
+    ],
+    "may_contain": [
+      "可能含有",
+      "本產品生產製程廠房",
+      "過敏原資訊: 可能含有"
+    ],
+    "free_from": [
+      "不含",
+      "無",
+      "無麩質"
+    ]
+  },
+  "ja": {
+    "headers": [
+      "原材料名:",
+      "原材料:",
+      "原材料名等:"
+    ],
+    "may_contain": [
+      "本品製造工場では",
+      "本製品の製造ラインでは",
+      "含まれる可能性があります"
+    ],
+    "free_from": [
+      "不使用",
+      "無添加",
+      "フリー",
+      "グルテンフリー"
+    ]
+  },
+  "ko": {
+    "headers": [
+      "원재료명:",
+      "원재료명 및 함량:",
+      "성분:"
+    ],
+    "may_contain": [
+      "알레르기 유발물질: 같은 제조시설에서",
+      "혼입될 수 있습니다",
+      "함유 가능성 있음"
+    ],
+    "free_from": [
+      "무첨가",
+      "미함유",
+      "글루텐프리"
+    ]
+  },
+  "th": {
+    "headers": [
+      "ส่วนประกอบ:",
+      "ส่วนประกอบสำคัญ:",
+      "ส่วนผสม:"
+    ],
+    "may_contain": [
+      "อาจมี",
+      "ผลิตในโรงงานที่มี",
+      "ข้อมูลสำหรับผู้แพ้อาหาร: อาจมี"
+    ],
+    "free_from": [
+      "ปราศจาก",
+      "ไม่มี",
+      "ปราศจากกลูเตน"
+    ]
+  },
+  "id": {
+    "headers": [
+      "komposisi:",
+      "bahan-bahan:"
+    ],
+    "may_contain": [
+      "dapat mengandung",
+      "diproduksi menggunakan peralatan yang juga memproses"
+    ],
+    "free_from": [
+      "bebas",
+      "tanpa",
+      "bebas gluten"
+    ]
+  },
+  "ms": {
+    "headers": [
+      "ramuan:",
+      "bahan-bahan:"
+    ],
+    "may_contain": [
+      "mungkin mengandungi",
+      "dihasilkan di kilang yang juga memproses"
+    ],
+    "free_from": [
+      "bebas",
+      "tanpa",
+      "bebas gluten"
+    ]
+  }
+}

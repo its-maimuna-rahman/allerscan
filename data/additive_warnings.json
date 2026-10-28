@@ -1,0 +1,1876 @@
+{
+  "version": "1.0.0",
+  "last_reviewed": "2026-10-27",
+  "disclaimer": "If you think you react to this, ask an allergist; reactions to additives are hard to prove and are rarely confirmed in tests.",
+  "additives": [
+    {
+      "id": "sulfites",
+      "display_name": "Sulfites / Sulphur Dioxide",
+      "class": "preservative",
+      "origin": "chemical",
+      "tier": 1,
+      "e_numbers": [
+        "E220",
+        "E221",
+        "E222",
+        "E223",
+        "E224",
+        "E225",
+        "E226",
+        "E227",
+        "E228"
+      ],
+      "ins_numbers": [
+        "220",
+        "221",
+        "222",
+        "223",
+        "224",
+        "225",
+        "226",
+        "227",
+        "228"
+      ],
+      "us_names": [
+        "Sulfiting agents",
+        "Sulfur dioxide",
+        "Sodium sulfite",
+        "Sodium bisulfite",
+        "Sodium metabisulfite",
+        "Potassium bisulfite",
+        "Potassium metabisulfite"
+      ],
+      "synonyms": [
+        "sulfite",
+        "sulfites",
+        "sulphite",
+        "sulphites",
+        "metabisulphite",
+        "metabisulfite",
+        "bisulphite",
+        "bisulfite",
+        "metabisulphites",
+        "metabisulfites",
+        "sulfur dioxide",
+        "sulphur dioxide",
+        "sodium sulfite",
+        "sodium sulphite",
+        "sodium bisulfite",
+        "sodium bisulphite",
+        "sodium hydrogen sulfite",
+        "sodium hydrogen sulphite",
+        "sodium metabisulfite",
+        "sodium metabisulphite",
+        "sodium pyrosulfite",
+        "sodium pyrosulphite",
+        "potassium metabisulfite",
+        "potassium metabisulphite",
+        "potassium bisulfite",
+        "potassium bisulphite",
+        "potassium hydrogen sulfite",
+        "potassium hydrogen sulphite",
+        "potassium sulfite",
+        "potassium sulphite",
+        "calcium sulfite",
+        "calcium sulphite",
+        "calcium bisulfite",
+        "calcium bisulphite",
+        "calcium hydrogen sulfite",
+        "calcium hydrogen sulphite"
+      ],
+      "reactions": [
+        "bronchospasm",
+        "wheezing",
+        "coughing",
+        "asthma exacerbation",
+        "flushing"
+      ],
+      "relevant_groups": [
+        "people with asthma (especially steroid-dependent asthma)"
+      ],
+      "related_foods": [
+        "wine",
+        "cider",
+        "dried fruit",
+        "vinegar",
+        "pickled foods",
+        "grape juice",
+        "processed potato products"
+      ],
+      "rarity": "Affects an estimated 3% to 10% of individuals with asthma; under 0.1% in the general non-asthmatic population.",
+      "description": "Sulfites are widespread preservatives that can trigger sudden wheezing or tightness in the chest, primarily in people who have asthma.",
+      "asthma_note": "Sulfites are the additive most often linked to breathing symptoms in people with asthma.",
+      "sources": [
+        {
+          "citation": "Skypala et al. Clin Transl Allergy 2015; 5:34",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4604636"
+        },
+        {
+          "citation": "Journal of Food Allergy 2021; Adverse reactions to food additives",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11250194"
+        }
+      ],
+      "reviewed_date": "2026-10-27"
+    },
+    {
+      "id": "carmine",
+      "display_name": "Carmine / Cochineal Extract",
+      "class": "colour",
+      "origin": "natural",
+      "tier": 1,
+      "e_numbers": [
+        "E120"
+      ],
+      "ins_numbers": [
+        "120"
+      ],
+      "us_names": [
+        "Cochineal extract",
+        "Carmine"
+      ],
+      "synonyms": [
+        "carmine",
+        "cochineal",
+        "cochineal extract",
+        "carminic acid",
+        "natural red 4",
+        "crimson lake",
+        "ci 75470"
+      ],
+      "reactions": [
+        "anaphylaxis",
+        "urticaria",
+        "angioedema",
+        "bronchospasm"
+      ],
+      "relevant_groups": [
+        "individuals with house dust mite or crustacean (shrimp) allergy",
+        "patients with unexplained food anaphylaxis"
+      ],
+      "related_foods": [
+        "strawberry milk",
+        "colored yogurt",
+        "campari",
+        "red candies",
+        "ice cream",
+        "processed meats"
+      ],
+      "rarity": "Documented cause of true IgE-mediated food allergy; about 3% of patients with suspected additive symptoms were sensitized in clinical studies.",
+      "description": "Carmine is a natural crimson red colour extracted from insects that can cause genuine allergic reactions including hives, facial swelling, or anaphylaxis.",
+      "sources": [
+        {
+          "citation": "Allergo Journal International 2022; Anaphylaxis to food additives",
+          "url": "https://link.springer.com/article/10.1007/s40629-022-00203-y"
+        },
+        {
+          "citation": "Journal of Food Allergy 2021; Adverse reactions to food additives",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11250194"
+        }
+      ],
+      "reviewed_date": "2026-10-27"
+    },
+    {
+      "id": "sulfite_caramel",
+      "display_name": "Sulfite Caramel Colours (Class II & IV)",
+      "class": "colour",
+      "origin": "semi-synthetic",
+      "tier": 1,
+      "e_numbers": [
+        "E150b",
+        "E150d"
+      ],
+      "ins_numbers": [
+        "150b",
+        "150d"
+      ],
+      "us_names": [
+        "Caramel color (sulfite-treated)"
+      ],
+      "synonyms": [
+        "sulfite ammonia caramel",
+        "sulphite ammonia caramel",
+        "caustic sulfite caramel",
+        "caustic sulphite caramel",
+        "caramel iv",
+        "caramel ii",
+        "class iv caramel",
+        "class ii caramel"
+      ],
+      "reactions": [
+        "bronchospasm",
+        "wheezing",
+        "asthma flare"
+      ],
+      "relevant_groups": [
+        "people with asthma or sulfite sensitivity"
+      ],
+      "related_foods": [
+        "colas",
+        "dark beers",
+        "gravies",
+        "soy sauces",
+        "confectionery"
+      ],
+      "rarity": "Contains residual bound and free sulfites that can trigger symptoms in sensitive asthmatics.",
+      "description": "Sulfite caramel colours are brown colorings manufactured with sulfites, which can release residual sulfites and trigger wheezing in asthmatics.",
+      "asthma_note": "Contains residual sulfites, which are the additive most often linked to breathing symptoms in people with asthma.",
+      "sources": [
+        {
+          "citation": "Skypala et al. Clin Transl Allergy 2015",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4604636"
+        },
+        {
+          "citation": "Journal of Food Allergy 2021",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11250194"
+        }
+      ],
+      "reviewed_date": "2026-10-27"
+    },
+    {
+      "id": "annatto",
+      "display_name": "Annatto / Bixin / Norbixin",
+      "class": "colour",
+      "origin": "natural",
+      "tier": 2,
+      "e_numbers": [
+        "E160b",
+        "E160b(i)",
+        "E160b(ii)"
+      ],
+      "ins_numbers": [
+        "160b",
+        "160b(i)",
+        "160b(ii)"
+      ],
+      "us_names": [
+        "Annatto extract"
+      ],
+      "synonyms": [
+        "annatto",
+        "annatto extract",
+        "bixin",
+        "norbixin",
+        "natural orange 4",
+        "ci 75120"
+      ],
+      "reactions": [
+        "urticaria",
+        "angioedema",
+        "anaphylaxis (rare)"
+      ],
+      "relevant_groups": [
+        "children and adults with idiopathic hives or swelling"
+      ],
+      "related_foods": [
+        "cheddar cheese",
+        "butter",
+        "margarine",
+        "microwave popcorn",
+        "snack foods",
+        "custards"
+      ],
+      "rarity": "Rare cause of IgE reactions, but one of the natural colours most frequently confirmed in anaphylaxis workups.",
+      "description": "Annatto is a yellow-orange plant extract used in cheeses and snacks that has been confirmed in rare cases to trigger hives or anaphylaxis.",
+      "sources": [
+        {
+          "citation": "Journal of Food Allergy 2021; Adverse reactions to food additives",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11250194"
+        },
+        {
+          "citation": "Allergo Journal International 2022; Anaphylaxis to food additives",
+          "url": "https://link.springer.com/article/10.1007/s40629-022-00203-y"
+        }
+      ],
+      "reviewed_date": "2026-10-27"
+    },
+    {
+      "id": "guar_gum",
+      "display_name": "Guar Gum",
+      "class": "thickener",
+      "origin": "natural",
+      "tier": 2,
+      "e_numbers": [
+        "E412"
+      ],
+      "ins_numbers": [
+        "412"
+      ],
+      "us_names": [
+        "Guar gum"
+      ],
+      "synonyms": [
+        "guar gum",
+        "guar flour",
+        "cyamopsis tetragonoloba gum"
+      ],
+      "reactions": [
+        "urticaria",
+        "angioedema",
+        "bronchospasm",
+        "anaphylaxis (rare)"
+      ],
+      "relevant_groups": [
+        "individuals with legume allergy (soy, peanut)",
+        "occupational flour handlers"
+      ],
+      "related_foods": [
+        "gluten-free baked goods",
+        "sauces",
+        "dressings",
+        "ice cream",
+        "processed dairy"
+      ],
+      "rarity": "A few isolated clinical case reports of contact hives, asthma, and rare anaphylaxis.",
+      "description": "Guar gum is a natural thickening agent made from legume seeds that has caused rare confirmed cases of anaphylaxis, especially in people with legume allergies.",
+      "sources": [
+        {
+          "citation": "Allergo Journal International 2022; 10.1007/s40629-022-00203-y",
+          "url": "https://link.springer.com/article/10.1007/s40629-022-00203-y"
+        },
+        {
+          "citation": "Journal of Food Allergy 2021; PMC11250194",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11250194"
+        }
+      ],
+      "reviewed_date": "2026-10-27"
+    },
+    {
+      "id": "gum_arabic",
+      "display_name": "Gum Arabic / Acacia Gum",
+      "class": "thickener",
+      "origin": "natural",
+      "tier": 2,
+      "e_numbers": [
+        "E414"
+      ],
+      "ins_numbers": [
+        "414"
+      ],
+      "us_names": [
+        "Acacia",
+        "Gum arabic"
+      ],
+      "synonyms": [
+        "gum arabic",
+        "acacia gum",
+        "gum acacia",
+        "acacia senegal"
+      ],
+      "reactions": [
+        "asthma",
+        "rhinitis",
+        "urticaria",
+        "anaphylaxis (rare)"
+      ],
+      "relevant_groups": [
+        "confectionery workers",
+        "sensitized atopic patients"
+      ],
+      "related_foods": [
+        "soft drinks",
+        "chewy candies",
+        "icing",
+        "marshmallows"
+      ],
+      "rarity": "Well-known occupational inhalant allergen; dietary systemic reactions are exceptionally rare.",
+      "description": "Gum arabic is a tree sap stabilizer that is a recognized occupational allergen and has caused isolated case reports of food-triggered allergic reactions.",
+      "sources": [
+        {
+          "citation": "Allergo Journal International 2022",
+          "url": "https://link.springer.com/article/10.1007/s40629-022-00203-y"
+        },
+        {
+          "citation": "Journal of Food Allergy 2021",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11250194"
+        }
+      ],
+      "reviewed_date": "2026-10-27"
+    },
+    {
+      "id": "locust_bean_gum",
+      "display_name": "Locust Bean Gum (Carob Gum)",
+      "class": "thickener",
+      "origin": "natural",
+      "tier": 2,
+      "e_numbers": [
+        "E410"
+      ],
+      "ins_numbers": [
+        "410"
+      ],
+      "us_names": [
+        "Locust bean gum",
+        "Carob bean gum"
+      ],
+      "synonyms": [
+        "locust bean gum",
+        "carob gum",
+        "carob bean gum",
+        "ceratonia siliqua gum"
+      ],
+      "reactions": [
+        "urticaria",
+        "infant digestive regurgitation",
+        "bronchospasm",
+        "anaphylaxis (rare)"
+      ],
+      "relevant_groups": [
+        "infants on anti-reflux formula",
+        "legume-allergic individuals"
+      ],
+      "related_foods": [
+        "ice cream",
+        "cream cheese",
+        "infant formula",
+        "sauces",
+        "dairy desserts"
+      ],
+      "rarity": "Scattered medical case reports in infants and legume-sensitized patients.",
+      "description": "Locust bean gum is a thickening agent milled from carob seeds that can rarely cause allergic reactions or infant feeding intolerance.",
+      "sources": [
+        {
+          "citation": "Allergo Journal International 2022",
+          "url": "https://link.springer.com/article/10.1007/s40629-022-00203-y"
+        },
+        {
+          "citation": "Journal of Food Allergy 2021",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11250194"
+        }
+      ],
+      "reviewed_date": "2026-10-27"
+    },
+    {
+      "id": "carrageenan",
+      "display_name": "Carrageenan",
+      "class": "thickener",
+      "origin": "natural",
+      "tier": 2,
+      "e_numbers": [
+        "E407",
+        "E407a"
+      ],
+      "ins_numbers": [
+        "407",
+        "407a"
+      ],
+      "us_names": [
+        "Carrageenan"
+      ],
+      "synonyms": [
+        "carrageenan",
+        "carrageen",
+        "irish moss extract",
+        "processed eucheuma seaweed",
+        "pes"
+      ],
+      "reactions": [
+        "anaphylaxis",
+        "angioedema",
+        "gastrointestinal cramps"
+      ],
+      "relevant_groups": [
+        "patients with red meat / alpha-gal allergy",
+        "patients with unexplained food anaphylaxis"
+      ],
+      "related_foods": [
+        "dairy desserts",
+        "plant milks",
+        "processed deli meats",
+        "chocolate milk",
+        "cottage cheese"
+      ],
+      "rarity": "A small series of documented life-threatening anaphylaxis cases confirmed via skin and IgE tests.",
+      "description": "Carrageenan is a seaweed extract used to thicken puddings and dairy that has been documented in rare case reports to cause severe anaphylaxis.",
+      "sources": [
+        {
+          "citation": "Allergo Journal International 2022",
+          "url": "https://link.springer.com/article/10.1007/s40629-022-00203-y"
+        },
+        {
+          "citation": "Journal of Food Allergy 2021",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11250194"
+        }
+      ],
+      "reviewed_date": "2026-10-27"
+    },
+    {
+      "id": "carboxymethylcellulose",
+      "display_name": "Carboxymethylcellulose (Cellulose Gum)",
+      "class": "thickener",
+      "origin": "semi-synthetic",
+      "tier": 2,
+      "e_numbers": [
+        "E466"
+      ],
+      "ins_numbers": [
+        "466"
+      ],
+      "us_names": [
+        "Sodium carboxymethylcellulose",
+        "Cellulose gum"
+      ],
+      "synonyms": [
+        "carboxymethylcellulose",
+        "sodium carboxymethylcellulose",
+        "cellulose gum",
+        "carmellose sodium",
+        "carmellose",
+        "cmc"
+      ],
+      "reactions": [
+        "anaphylaxis",
+        "urticaria",
+        "angioedema",
+        "hypotension"
+      ],
+      "relevant_groups": [
+        "patients undergoing barium meal contrast",
+        "consumers of diet drinks and thickeners"
+      ],
+      "related_foods": [
+        "ice cream",
+        "diet drinks",
+        "salad dressings",
+        "gluten-free bakery",
+        "icing"
+      ],
+      "rarity": "Repeatedly identified as a hidden cause in severe unexplained anaphylaxis workups.",
+      "description": "Carboxymethylcellulose is a modified cellulose thickener that is an established, though rare, hidden trigger of severe allergic anaphylaxis.",
+      "sources": [
+        {
+          "citation": "Allergo Journal International 2022",
+          "url": "https://link.springer.com/article/10.1007/s40629-022-00203-y"
+        },
+        {
+          "citation": "Journal of Food Allergy 2021",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11250194"
+        }
+      ],
+      "reviewed_date": "2026-10-27"
+    },
+    {
+      "id": "pectin",
+      "display_name": "Pectin",
+      "class": "thickener",
+      "origin": "natural",
+      "tier": 2,
+      "e_numbers": [
+        "E440",
+        "E440i",
+        "E440ii"
+      ],
+      "ins_numbers": [
+        "440",
+        "440(i)",
+        "440(ii)"
+      ],
+      "us_names": [
+        "Pectin",
+        "Amidated pectin"
+      ],
+      "synonyms": [
+        "pectin",
+        "amidated pectin",
+        "pectins"
+      ],
+      "reactions": [
+        "anaphylaxis",
+        "urticaria",
+        "facial swelling",
+        "asthma"
+      ],
+      "relevant_groups": [
+        "individuals allergic to cashew nut or pistachio",
+        "pectin manufacturing workers"
+      ],
+      "related_foods": [
+        "jams",
+        "jellies",
+        "fruit gummies",
+        "marmalade",
+        "bakery fruit fillings"
+      ],
+      "rarity": "Isolated clinical reports of severe IgE anaphylaxis; cross-reacts with cashew and pistachio.",
+      "description": "Pectin is a natural fruit gelling agent that can rarely provoke anaphylaxis, particularly in people with cashew or pistachio allergies.",
+      "sources": [
+        {
+          "citation": "Allergo Journal International 2022",
+          "url": "https://link.springer.com/article/10.1007/s40629-022-00203-y"
+        },
+        {
+          "citation": "Journal of Food Allergy 2021",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11250194"
+        }
+      ],
+      "reviewed_date": "2026-10-27"
+    },
+    {
+      "id": "tragacanth",
+      "display_name": "Tragacanth Gum",
+      "class": "thickener",
+      "origin": "natural",
+      "tier": 2,
+      "e_numbers": [
+        "E413"
+      ],
+      "ins_numbers": [
+        "413"
+      ],
+      "us_names": [
+        "Gum tragacanth",
+        "Tragacanth gum"
+      ],
+      "synonyms": [
+        "tragacanth",
+        "gum tragacanth",
+        "astragalus gummifer"
+      ],
+      "reactions": [
+        "anaphylaxis",
+        "asthma",
+        "urticaria"
+      ],
+      "relevant_groups": [
+        "legume-allergic patients",
+        "bakers and confectioners"
+      ],
+      "related_foods": [
+        "cake decorations",
+        "salad dressings",
+        "confectionery syrups",
+        "sauces"
+      ],
+      "rarity": "Well-known occupational allergen with scattered case reports of severe dietary anaphylaxis.",
+      "description": "Gum tragacanth is a legume-derived plant resin that has been linked to rare but severe allergic reactions and anaphylaxis.",
+      "sources": [
+        {
+          "citation": "Allergo Journal International 2022",
+          "url": "https://link.springer.com/article/10.1007/s40629-022-00203-y"
+        },
+        {
+          "citation": "Journal of Food Allergy 2021",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11250194"
+        }
+      ],
+      "reviewed_date": "2026-10-27"
+    },
+    {
+      "id": "erythritol",
+      "display_name": "Erythritol",
+      "class": "sweetener",
+      "origin": "semi-synthetic",
+      "tier": 2,
+      "e_numbers": [
+        "E968"
+      ],
+      "ins_numbers": [
+        "968"
+      ],
+      "us_names": [
+        "Erythritol"
+      ],
+      "synonyms": [
+        "erythritol"
+      ],
+      "reactions": [
+        "anaphylaxis",
+        "urticaria",
+        "angioedema",
+        "wheezing"
+      ],
+      "relevant_groups": [
+        "consumers of keto, sugar-free, or zero-calorie foods"
+      ],
+      "related_foods": [
+        "sugar-free beverages",
+        "keto baked goods",
+        "protein bars",
+        "tabletop sweeteners"
+      ],
+      "rarity": "Multiple published clinical case reports confirm immediate IgE-mediated urticaria and anaphylaxis.",
+      "description": "Erythritol is a zero-calorie sugar alcohol that has been documented in multiple clinical reports to cause immediate allergic hives and anaphylaxis.",
+      "sources": [
+        {
+          "citation": "Journal of Food Allergy 2021; PMC11250194",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11250194"
+        },
+        {
+          "citation": "Allergo Journal International 2022; 10.1007/s40629-022-00203-y",
+          "url": "https://link.springer.com/article/10.1007/s40629-022-00203-y"
+        }
+      ],
+      "reviewed_date": "2026-10-27"
+    },
+    {
+      "id": "mannitol",
+      "display_name": "Mannitol",
+      "class": "sweetener",
+      "origin": "semi-synthetic",
+      "tier": 2,
+      "e_numbers": [
+        "E421",
+        "E421i",
+        "E421ii"
+      ],
+      "ins_numbers": [
+        "421",
+        "421(i)",
+        "421(ii)"
+      ],
+      "us_names": [
+        "Mannitol"
+      ],
+      "synonyms": [
+        "mannitol",
+        "d-mannitol"
+      ],
+      "reactions": [
+        "anaphylaxis",
+        "urticaria",
+        "angioedema",
+        "hypotension"
+      ],
+      "relevant_groups": [
+        "patients reacting to chewable tablets, mints, or diet foods"
+      ],
+      "related_foods": [
+        "sugar-free chewing gum",
+        "breath mints",
+        "dietetic chocolates",
+        "pharmaceutical tablets"
+      ],
+      "rarity": "Extremely rare; confirmed in isolated case reports as an IgE-mediated trigger.",
+      "description": "Mannitol is a sugar alcohol sweetener with rare but confirmed clinical case reports of life-threatening allergic reactions.",
+      "sources": [
+        {
+          "citation": "Journal of Food Allergy 2021",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11250194"
+        },
+        {
+          "citation": "Allergo Journal International 2022",
+          "url": "https://link.springer.com/article/10.1007/s40629-022-00203-y"
+        }
+      ],
+      "reviewed_date": "2026-10-27"
+    },
+    {
+      "id": "psyllium",
+      "display_name": "Psyllium Husk (Ispaghula)",
+      "class": "thickener",
+      "origin": "natural",
+      "tier": 2,
+      "e_numbers": [],
+      "ins_numbers": [],
+      "us_names": [
+        "Psyllium husk",
+        "Psyllium seed husk"
+      ],
+      "synonyms": [
+        "psyllium",
+        "psyllium husk",
+        "psyllium seed husk",
+        "ispaghula",
+        "ispaghula husk",
+        "plantago ovata"
+      ],
+      "reactions": [
+        "anaphylaxis",
+        "bronchospasm",
+        "urticaria",
+        "throat tightness"
+      ],
+      "relevant_groups": [
+        "healthcare workers/caregivers who handle laxative powders",
+        "consumers of high-fiber cereals"
+      ],
+      "related_foods": [
+        "high-fiber cereals",
+        "fiber supplement powders",
+        "keto breads"
+      ],
+      "rarity": "Established cause of severe anaphylaxis after prior inhalation or occupational sensitisation.",
+      "description": "Psyllium husk is a natural plant fiber that can cause severe anaphylaxis, especially in people previously sensitised through handling fiber powders.",
+      "sources": [
+        {
+          "citation": "Journal of Food Allergy 2021",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11250194"
+        },
+        {
+          "citation": "Allergo Journal International 2022",
+          "url": "https://link.springer.com/article/10.1007/s40629-022-00203-y"
+        }
+      ],
+      "reviewed_date": "2026-10-27"
+    },
+    {
+      "id": "polysorbate_80",
+      "display_name": "Polysorbate 80",
+      "class": "thickener",
+      "origin": "semi-synthetic",
+      "tier": 2,
+      "e_numbers": [
+        "E433"
+      ],
+      "ins_numbers": [
+        "433"
+      ],
+      "us_names": [
+        "Polysorbate 80"
+      ],
+      "synonyms": [
+        "polysorbate 80",
+        "polyoxyethylene sorbitan monooleate",
+        "tween 80"
+      ],
+      "reactions": [
+        "anaphylaxis",
+        "urticaria",
+        "hypotension",
+        "bronchospasm"
+      ],
+      "relevant_groups": [
+        "individuals with excipient allergy",
+        "patients reacting to commercial dressings/ice creams"
+      ],
+      "related_foods": [
+        "ice cream",
+        "salad dressings",
+        "sauces",
+        "whipped toppings",
+        "cake mixes"
+      ],
+      "rarity": "Recognized cause of excipient-induced anaphylaxis; food-borne reactions are rare but verified.",
+      "description": "Polysorbate 80 is an emulsifier that has been verified in medical case reports to cause rare but severe allergic anaphylaxis.",
+      "sources": [
+        {
+          "citation": "Allergo Journal International 2022",
+          "url": "https://link.springer.com/article/10.1007/s40629-022-00203-y"
+        },
+        {
+          "citation": "Journal of Food Allergy 2021",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11250194"
+        }
+      ],
+      "reviewed_date": "2026-10-27"
+    },
+    {
+      "id": "paprika_extract",
+      "display_name": "Paprika Extract (Capsanthin / Capsorubin)",
+      "class": "colour",
+      "origin": "natural",
+      "tier": 2,
+      "e_numbers": [
+        "E160c"
+      ],
+      "ins_numbers": [
+        "160c"
+      ],
+      "us_names": [
+        "Paprika oleoresin"
+      ],
+      "synonyms": [
+        "paprika extract",
+        "paprika oleoresin",
+        "capsanthin",
+        "capsorubin"
+      ],
+      "reactions": [
+        "urticaria",
+        "angioedema",
+        "asthma",
+        "anaphylaxis (rare)"
+      ],
+      "relevant_groups": [
+        "individuals allergic to bell peppers, chili, or nightshades",
+        "celery-mugwort-spice syndrome"
+      ],
+      "related_foods": [
+        "processed meats",
+        "barbecue chips",
+        "sauces",
+        "seasonings",
+        "cheeses"
+      ],
+      "rarity": "Infrequent cause of food allergy; reactions occur mostly in individuals cross-sensitised to Capsicum.",
+      "description": "Paprika extract is a natural red-orange colouring from sweet peppers that can provoke allergic reactions in individuals allergic to peppers.",
+      "sources": [
+        {
+          "citation": "Allergo Journal International 2022",
+          "url": "https://link.springer.com/article/10.1007/s40629-022-00203-y"
+        },
+        {
+          "citation": "Journal of Food Allergy 2021",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11250194"
+        }
+      ],
+      "reviewed_date": "2026-10-27"
+    },
+    {
+      "id": "saffron_extract",
+      "display_name": "Saffron Extract",
+      "class": "colour",
+      "origin": "natural",
+      "tier": 2,
+      "e_numbers": [],
+      "ins_numbers": [],
+      "us_names": [
+        "Saffron"
+      ],
+      "synonyms": [
+        "saffron",
+        "saffron extract",
+        "crocus sativus"
+      ],
+      "reactions": [
+        "anaphylaxis",
+        "urticaria",
+        "rhinoconjunctivitis"
+      ],
+      "relevant_groups": [
+        "saffron harvesters",
+        "individuals cross-reactive to olive or mugwort pollen"
+      ],
+      "related_foods": [
+        "paella",
+        "rice dishes",
+        "curries",
+        "baked goods",
+        "liqueurs"
+      ],
+      "rarity": "Rare cause of severe food allergy; verified by skin prick and basophil activation tests.",
+      "description": "Saffron is an expensive natural spice and colour that has been documented in rare case reports to cause IgE-mediated anaphylaxis.",
+      "sources": [
+        {
+          "citation": "Journal of Food Allergy 2021",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11250194"
+        },
+        {
+          "citation": "Allergo Journal International 2022",
+          "url": "https://link.springer.com/article/10.1007/s40629-022-00203-y"
+        }
+      ],
+      "reviewed_date": "2026-10-27"
+    },
+    {
+      "id": "shellac",
+      "display_name": "Shellac (Confectioner's Glaze)",
+      "class": "glazing agent",
+      "origin": "natural",
+      "tier": 2,
+      "e_numbers": [
+        "E904"
+      ],
+      "ins_numbers": [
+        "904"
+      ],
+      "us_names": [
+        "Shellac",
+        "Resinous glaze"
+      ],
+      "synonyms": [
+        "shellac",
+        "confectioner's glaze",
+        "confectioners glaze",
+        "resinous glaze",
+        "lac resin"
+      ],
+      "reactions": [
+        "contact cheilitis",
+        "stomatitis",
+        "urticaria",
+        "facial swelling"
+      ],
+      "relevant_groups": [
+        "individuals with contact allergy to insect resins",
+        "frequent candy consumers"
+      ],
+      "related_foods": [
+        "glazed chocolates",
+        "shiny fruit candies",
+        "pharmaceutical pill coatings",
+        "glossy fruit wax"
+      ],
+      "rarity": "Recognized cause of contact cheilitis; severe immediate systemic food reactions are exceedingly rare.",
+      "description": "Shellac is an insect-derived glossy glaze on candies and pills that can occasionally trigger lip swelling, mouth irritation, or hives.",
+      "sources": [
+        {
+          "citation": "Allergo Journal International 2022",
+          "url": "https://link.springer.com/article/10.1007/s40629-022-00203-y"
+        },
+        {
+          "citation": "Journal of Food Allergy 2021",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11250194"
+        }
+      ],
+      "reviewed_date": "2026-10-27"
+    },
+    {
+      "id": "indigo_carmine",
+      "display_name": "Indigo Carmine / Indigotine (Blue 2)",
+      "class": "colour",
+      "origin": "synthetic",
+      "tier": 2,
+      "e_numbers": [
+        "E132"
+      ],
+      "ins_numbers": [
+        "132"
+      ],
+      "us_names": [
+        "FD&C Blue No. 2",
+        "Blue 2",
+        "Blue #2",
+        "FD&C Blue 2"
+      ],
+      "synonyms": [
+        "indigotine",
+        "indigo carmine",
+        "ci 73015"
+      ],
+      "reactions": [
+        "anaphylaxis",
+        "severe hypotension",
+        "bronchospasm",
+        "urticaria"
+      ],
+      "relevant_groups": [
+        "individuals with unexplained dye-induced anaphylaxis"
+      ],
+      "related_foods": [
+        "confectionery",
+        "ice cream",
+        "baked goods",
+        "medical diagnostic dyes"
+      ],
+      "rarity": "Documented in medical case reports as a cause of severe anaphylactoid reactions; dietary reactions are exceedingly rare.",
+      "description": "Indigo Carmine is a deep blue synthetic dye known in medical literature to cause rare, severe allergic-like reactions with low blood pressure.",
+      "sources": [
+        {
+          "citation": "Allergo Journal International 2022",
+          "url": "https://link.springer.com/article/10.1007/s40629-022-00203-y"
+        },
+        {
+          "citation": "Journal of Food Allergy 2021",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11250194"
+        }
+      ],
+      "reviewed_date": "2026-10-27"
+    },
+    {
+      "id": "patent_blue",
+      "display_name": "Patent Blue V",
+      "class": "colour",
+      "origin": "synthetic",
+      "tier": 2,
+      "e_numbers": [
+        "E131"
+      ],
+      "ins_numbers": [
+        "131"
+      ],
+      "us_names": [],
+      "synonyms": [
+        "patent blue v",
+        "patent blue",
+        "ci 42051"
+      ],
+      "reactions": [
+        "anaphylaxis",
+        "bronchospasm",
+        "urticaria"
+      ],
+      "relevant_groups": [
+        "patients undergoing surgical lymphatic procedures",
+        "atopic individuals"
+      ],
+      "related_foods": [
+        "imported sweets",
+        "liqueurs",
+        "confectionery"
+      ],
+      "rarity": "Well-known cause of anaphylaxis in clinical lymph node procedures; oral food cases are exceptionally rare.",
+      "description": "Patent Blue V is a synthetic blue colour that has documented case reports of severe allergic reactions and anaphylaxis.",
+      "sources": [
+        {
+          "citation": "Allergo Journal International 2022",
+          "url": "https://link.springer.com/article/10.1007/s40629-022-00203-y"
+        },
+        {
+          "citation": "Journal of Food Allergy 2021",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11250194"
+        }
+      ],
+      "reviewed_date": "2026-10-27"
+    },
+    {
+      "id": "tartrazine",
+      "display_name": "Tartrazine (Yellow 5)",
+      "class": "colour",
+      "origin": "synthetic",
+      "tier": 3,
+      "e_numbers": [
+        "E102"
+      ],
+      "ins_numbers": [
+        "102"
+      ],
+      "us_names": [
+        "FD&C Yellow No. 5",
+        "Yellow 5",
+        "Yellow #5",
+        "FD&C Yellow 5",
+        "Yellow No. 5 Lake"
+      ],
+      "synonyms": [
+        "tartrazine",
+        "ci 19140",
+        "acid yellow 23"
+      ],
+      "reactions": [
+        "urticaria",
+        "eczema flare",
+        "asthma (unconfirmed)"
+      ],
+      "relevant_groups": [
+        "individuals with chronic urticaria or aspirin-sensitive asthma reporting sensitivities"
+      ],
+      "related_foods": [
+        "soft drinks",
+        "confectionery",
+        "gelatin desserts",
+        "yellow snack chips",
+        "pickles"
+      ],
+      "rarity": "Double-blind placebo-controlled trials have consistently found reactions in fewer than 1% of suspected patients; widely perceived sensitivities are rarely test-confirmed.",
+      "description": "Tartrazine is a bright yellow synthetic dye that was historically blamed for asthma and hives, though rigorous blinded medical trials have not confirmed this link.",
+      "weak_evidence_note": "Blinded placebo-controlled challenge tests have not confirmed that tartrazine triggers asthma or hives.",
+      "sources": [
+        {
+          "citation": "Journal of Food Allergy 2021; Adverse reactions to food additives",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11250194"
+        },
+        {
+          "citation": "Andreozzi et al. Acta Biomed 2019",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6502174"
+        }
+      ],
+      "reviewed_date": "2026-10-27"
+    },
+    {
+      "id": "sunset_yellow",
+      "display_name": "Sunset Yellow FCF (Yellow 6)",
+      "class": "colour",
+      "origin": "synthetic",
+      "tier": 3,
+      "e_numbers": [
+        "E110"
+      ],
+      "ins_numbers": [
+        "110"
+      ],
+      "us_names": [
+        "FD&C Yellow No. 6",
+        "Yellow 6",
+        "Yellow #6",
+        "FD&C Yellow 6",
+        "Yellow No. 6 Lake"
+      ],
+      "synonyms": [
+        "sunset yellow",
+        "sunset yellow fcf",
+        "orange yellow s",
+        "ci 15985"
+      ],
+      "reactions": [
+        "urticaria",
+        "non-specific intolerance (unconfirmed)"
+      ],
+      "relevant_groups": [
+        "individuals with chronic spontaneous urticaria"
+      ],
+      "related_foods": [
+        "orange sodas",
+        "confectionery",
+        "baked goods",
+        "sauces"
+      ],
+      "rarity": "Controlled challenge studies have rarely confirmed reactions; immunologic mechanisms have not been established.",
+      "description": "Sunset Yellow is an orange-yellow synthetic food dye occasionally suspected of causing hives, but controlled allergy testing has not confirmed a link.",
+      "weak_evidence_note": "Blinded placebo-controlled tests have not confirmed an allergic mechanism for Sunset Yellow.",
+      "sources": [
+        {
+          "citation": "Journal of Food Allergy 2021",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11250194"
+        },
+        {
+          "citation": "Andreozzi et al. Acta Biomed 2019",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6502174"
+        }
+      ],
+      "reviewed_date": "2026-10-27"
+    },
+    {
+      "id": "allura_red",
+      "display_name": "Allura Red AC (Red 40)",
+      "class": "colour",
+      "origin": "synthetic",
+      "tier": 3,
+      "e_numbers": [
+        "E129"
+      ],
+      "ins_numbers": [
+        "129"
+      ],
+      "us_names": [
+        "FD&C Red No. 40",
+        "Red 40",
+        "Red #40",
+        "FD&C Red 40",
+        "Red No. 40 Lake"
+      ],
+      "synonyms": [
+        "allura red",
+        "allura red ac",
+        "ci 16035"
+      ],
+      "reactions": [
+        "urticaria",
+        "eczema flare (unconfirmed)"
+      ],
+      "relevant_groups": [
+        "people reporting sensitivities to synthetic dyes"
+      ],
+      "related_foods": [
+        "soft drinks",
+        "cereals",
+        "pastries",
+        "gelatin sweets",
+        "condiments"
+      ],
+      "rarity": "Extremely rare anecdotal reports; blinded trials show no reproducible allergic reactions above placebo.",
+      "description": "Allura Red is a common red synthetic dye that has been blamed for hives in personal reports, but placebo-controlled studies have not demonstrated allergic reactions.",
+      "weak_evidence_note": "Blinded tests have not substantiated allergic reactions to Allura Red.",
+      "sources": [
+        {
+          "citation": "Journal of Food Allergy 2021",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11250194"
+        },
+        {
+          "citation": "Allergo Journal International 2022",
+          "url": "https://link.springer.com/article/10.1007/s40629-022-00203-y"
+        }
+      ],
+      "reviewed_date": "2026-10-27"
+    },
+    {
+      "id": "brilliant_blue",
+      "display_name": "Brilliant Blue FCF (Blue 1)",
+      "class": "colour",
+      "origin": "synthetic",
+      "tier": 3,
+      "e_numbers": [
+        "E133"
+      ],
+      "ins_numbers": [
+        "133"
+      ],
+      "us_names": [
+        "FD&C Blue No. 1",
+        "Blue 1",
+        "Blue #1",
+        "FD&C Blue 1",
+        "Blue No. 1 Lake"
+      ],
+      "synonyms": [
+        "brilliant blue",
+        "brilliant blue fcf",
+        "ci 42090"
+      ],
+      "reactions": [
+        "urticaria (unconfirmed)"
+      ],
+      "relevant_groups": [
+        "consumers concerned with synthetic dyes"
+      ],
+      "related_foods": [
+        "blue beverages",
+        "ice pops",
+        "cake decorating icings",
+        "sweets"
+      ],
+      "rarity": "Documented allergic reactions are virtually non-existent in clinical literature.",
+      "description": "Brilliant Blue is a synthetic food colouring with an exceptionally safe record, where reported skin reactions remain unconfirmed in clinical testing.",
+      "weak_evidence_note": "Blinded studies have not confirmed allergic reactions to Brilliant Blue.",
+      "sources": [
+        {
+          "citation": "Journal of Food Allergy 2021",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11250194"
+        },
+        {
+          "citation": "Allergo Journal International 2022",
+          "url": "https://link.springer.com/article/10.1007/s40629-022-00203-y"
+        }
+      ],
+      "reviewed_date": "2026-10-27"
+    },
+    {
+      "id": "benzoates",
+      "display_name": "Benzoates (Sodium Benzoate)",
+      "class": "preservative",
+      "origin": "synthetic",
+      "tier": 3,
+      "e_numbers": [
+        "E210",
+        "E211",
+        "E212",
+        "E213"
+      ],
+      "ins_numbers": [
+        "210",
+        "211",
+        "212",
+        "213"
+      ],
+      "us_names": [
+        "Sodium benzoate",
+        "Benzoic acid"
+      ],
+      "synonyms": [
+        "benzoic acid",
+        "sodium benzoate",
+        "potassium benzoate",
+        "calcium benzoate",
+        "benzoate",
+        "benzoates"
+      ],
+      "reactions": [
+        "urticaria",
+        "angioedema",
+        "rhinitis",
+        "asthma flare (poorly reproducible)"
+      ],
+      "relevant_groups": [
+        "patients with chronic spontaneous urticaria or nasal polyps"
+      ],
+      "related_foods": [
+        "carbonated soft drinks",
+        "fruit juices",
+        "salad dressings",
+        "pickled foods",
+        "jams"
+      ],
+      "rarity": "True adverse reactions are proven in under 1-2% of tested individuals with chronic urticaria, and are virtually absent in the general population.",
+      "description": "Sodium benzoate is a common preservative widely blamed for hives and asthma, but blinded hospital challenges rarely confirm a true reaction.",
+      "weak_evidence_note": "Well-designed blinded clinical trials have not confirmed that sodium benzoate causes allergic hives or asthma.",
+      "sources": [
+        {
+          "citation": "Skypala et al. Clin Transl Allergy 2015",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4604636"
+        },
+        {
+          "citation": "Journal of Food Allergy 2021",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11250194"
+        }
+      ],
+      "reviewed_date": "2026-10-27"
+    },
+    {
+      "id": "sorbates",
+      "display_name": "Sorbates (Potassium Sorbate)",
+      "class": "preservative",
+      "origin": "synthetic",
+      "tier": 3,
+      "e_numbers": [
+        "E200",
+        "E202",
+        "E203"
+      ],
+      "ins_numbers": [
+        "200",
+        "202",
+        "203"
+      ],
+      "us_names": [
+        "Potassium sorbate",
+        "Sorbic acid"
+      ],
+      "synonyms": [
+        "sorbic acid",
+        "potassium sorbate",
+        "calcium sorbate",
+        "sorbate",
+        "sorbates"
+      ],
+      "reactions": [
+        "contact hives",
+        "oral irritation (systemic reactions unconfirmed)"
+      ],
+      "relevant_groups": [
+        "individuals with contact skin sensitivity"
+      ],
+      "related_foods": [
+        "baked goods",
+        "cheese",
+        "dried fruit",
+        "wine",
+        "sauces"
+      ],
+      "rarity": "Oral systemic allergic reactions are extremely rare and lack confirmation in controlled challenges.",
+      "description": "Potassium sorbate is an antifungal preservative that can irritate the skin directly, but rarely or never causes internal allergic reactions.",
+      "weak_evidence_note": "Oral systemic allergy to sorbates has not been confirmed in controlled testing.",
+      "sources": [
+        {
+          "citation": "Journal of Food Allergy 2021",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11250194"
+        },
+        {
+          "citation": "Skypala et al. Clin Transl Allergy 2015",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4604636"
+        }
+      ],
+      "reviewed_date": "2026-10-27"
+    },
+    {
+      "id": "msg",
+      "display_name": "Monosodium Glutamate (MSG)",
+      "class": "flavour enhancer",
+      "origin": "semi-synthetic",
+      "tier": 3,
+      "e_numbers": [
+        "E621"
+      ],
+      "ins_numbers": [
+        "621"
+      ],
+      "us_names": [
+        "Monosodium glutamate",
+        "MSG"
+      ],
+      "synonyms": [
+        "monosodium glutamate",
+        "msg",
+        "monosodium l-glutamate",
+        "sodium glutamate"
+      ],
+      "reactions": [
+        "temporary headache",
+        "flushing",
+        "numbness",
+        "sweating (historical complaints; not reproducible under blinded challenge)"
+      ],
+      "relevant_groups": [
+        "individuals reporting self-perceived MSG sensitivity"
+      ],
+      "related_foods": [
+        "savory snacks",
+        "seasonings",
+        "instant noodles",
+        "canned soups",
+        "restaurant dishes"
+      ],
+      "rarity": "Placebo-controlled double-blind trials consistently show that adverse reactions to MSG do not exceed placebo rates.",
+      "description": "Monosodium glutamate is a savory flavour enhancer widely accused of causing headaches and flushing, but controlled blinded trials have found no reproducible allergy.",
+      "weak_evidence_note": "Rigorous double-blind placebo-controlled trials have consistently shown that MSG does not cause reproducible allergic reactions.",
+      "sources": [
+        {
+          "citation": "Skypala et al. Clin Transl Allergy 2015",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4604636"
+        },
+        {
+          "citation": "Journal of Food Allergy 2021",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11250194"
+        }
+      ],
+      "reviewed_date": "2026-10-27"
+    },
+    {
+      "id": "aspartame",
+      "display_name": "Aspartame",
+      "class": "sweetener",
+      "origin": "synthetic",
+      "tier": 3,
+      "e_numbers": [
+        "E951"
+      ],
+      "ins_numbers": [
+        "951"
+      ],
+      "us_names": [
+        "Aspartame"
+      ],
+      "synonyms": [
+        "aspartame",
+        "nutrasweet",
+        "equal"
+      ],
+      "reactions": [
+        "headache",
+        "urticaria",
+        "mood changes (unconfirmed in DBPCFC)"
+      ],
+      "relevant_groups": [
+        "individuals reporting artificial sweetener sensitivity"
+      ],
+      "related_foods": [
+        "diet sodas",
+        "sugar-free desserts",
+        "chewing gum",
+        "tabletop sweeteners"
+      ],
+      "rarity": "Multiple rigorous double-blind challenges have failed to verify any immunologic or reproducible intolerance.",
+      "description": "Aspartame is an artificial sweetener commonly suspected of triggering headaches and hives, though blinded clinical trials show no more reactions than a dummy pill.",
+      "weak_evidence_note": "Blinded challenge studies in people reporting hives after aspartame found no more reactions than with a placebo.",
+      "sources": [
+        {
+          "citation": "Journal of Food Allergy 2021",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11250194"
+        },
+        {
+          "citation": "Andreozzi et al. Acta Biomed 2019",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6502174"
+        }
+      ],
+      "reviewed_date": "2026-10-27"
+    },
+    {
+      "id": "bha_bht",
+      "display_name": "BHA & BHT (Butylated Hydroxyanisole / Hydroxytoluene)",
+      "class": "antioxidant",
+      "origin": "synthetic",
+      "tier": 3,
+      "e_numbers": [
+        "E320",
+        "E321"
+      ],
+      "ins_numbers": [
+        "320",
+        "321"
+      ],
+      "us_names": [
+        "BHA",
+        "BHT"
+      ],
+      "synonyms": [
+        "bha",
+        "bht",
+        "butylated hydroxyanisole",
+        "butylated hydroxytoluene"
+      ],
+      "reactions": [
+        "chronic hives",
+        "dermatitis (historical reports; unconfirmed in blinded challenges)"
+      ],
+      "relevant_groups": [
+        "patients with chronic spontaneous urticaria"
+      ],
+      "related_foods": [
+        "oils",
+        "potato chips",
+        "breakfast cereals",
+        "chewing gum",
+        "butter fats"
+      ],
+      "rarity": "Extremely weak evidence base; almost never confirmed in blinded oral challenges.",
+      "description": "BHA and BHT are synthetic antioxidants that preserve fats, with historical claims of worsening hives that modern allergy testing has failed to verify.",
+      "weak_evidence_note": "A link between BHA/BHT and chronic hives has not been verified in controlled challenge studies.",
+      "sources": [
+        {
+          "citation": "Journal of Food Allergy 2021",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11250194"
+        },
+        {
+          "citation": "Skypala et al. Clin Transl Allergy 2015",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4604636"
+        }
+      ],
+      "reviewed_date": "2026-10-27"
+    },
+    {
+      "id": "nitrites",
+      "display_name": "Nitrates & Nitrites (Sodium Nitrite)",
+      "class": "preservative",
+      "origin": "synthetic",
+      "tier": 3,
+      "e_numbers": [
+        "E249",
+        "E250",
+        "E251",
+        "E252"
+      ],
+      "ins_numbers": [
+        "249",
+        "250",
+        "251",
+        "252"
+      ],
+      "us_names": [
+        "Sodium nitrite",
+        "Sodium nitrate",
+        "Potassium nitrite",
+        "Potassium nitrate"
+      ],
+      "synonyms": [
+        "sodium nitrite",
+        "sodium nitrate",
+        "potassium nitrite",
+        "potassium nitrate",
+        "nitrite",
+        "nitrites",
+        "nitrate",
+        "nitrates"
+      ],
+      "reactions": [
+        "headache",
+        "facial flushing",
+        "dizziness (non-allergic vascular response)"
+      ],
+      "relevant_groups": [
+        "individuals sensitive to vasodilating chemicals",
+        "headache sufferers"
+      ],
+      "related_foods": [
+        "cured meats",
+        "bacon",
+        "sausages",
+        "hot dogs",
+        "ham",
+        "deli cold cuts"
+      ],
+      "rarity": "Aside from rare vascular flushing or isolated case reports, convincing evidence for an allergic reaction is absent.",
+      "description": "Nitrites and nitrates are meat-curing salts that can cause mild facial flushing or headaches from blood vessel dilation, but do not cause true food allergies.",
+      "weak_evidence_note": "No convincing scientific evidence demonstrates an allergic mechanism for nitrites or nitrates.",
+      "sources": [
+        {
+          "citation": "Journal of Food Allergy 2021",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11250194"
+        },
+        {
+          "citation": "Skypala et al. Clin Transl Allergy 2015",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4604636"
+        }
+      ],
+      "reviewed_date": "2026-10-27"
+    },
+    {
+      "id": "gallates_tbhq",
+      "display_name": "Propyl Gallate & TBHQ",
+      "class": "antioxidant",
+      "origin": "synthetic",
+      "tier": 3,
+      "e_numbers": [
+        "E310",
+        "E319"
+      ],
+      "ins_numbers": [
+        "310",
+        "319"
+      ],
+      "us_names": [
+        "Propyl gallate",
+        "TBHQ"
+      ],
+      "synonyms": [
+        "propyl gallate",
+        "tbhq",
+        "tertiary butylhydroquinone",
+        "tert-butylhydroquinone"
+      ],
+      "reactions": [
+        "contact cheilitis",
+        "oral burning",
+        "urticaria (unconfirmed)"
+      ],
+      "relevant_groups": [
+        "individuals with contact allergy to cosmetics or lip balms"
+      ],
+      "related_foods": [
+        "vegetable oils",
+        "deep-fried snacks",
+        "processed meats",
+        "instant noodles"
+      ],
+      "rarity": "Oral systemic reactions have not been demonstrated in clinical trials.",
+      "description": "Propyl gallate and TBHQ are oil antioxidants that can cause contact skin rash, but have not been proven to cause internal food allergies.",
+      "weak_evidence_note": "Oral dietary reactions have not been confirmed in controlled allergy testing.",
+      "sources": [
+        {
+          "citation": "Journal of Food Allergy 2021",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11250194"
+        },
+        {
+          "citation": "Skypala et al. Clin Transl Allergy 2015",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4604636"
+        }
+      ],
+      "reviewed_date": "2026-10-27"
+    },
+    {
+      "id": "curcumin",
+      "display_name": "Curcumin (Turmeric Extract)",
+      "class": "colour",
+      "origin": "natural",
+      "tier": 3,
+      "e_numbers": [
+        "E100",
+        "E100i",
+        "E100ii"
+      ],
+      "ins_numbers": [
+        "100",
+        "100(i)",
+        "100(ii)"
+      ],
+      "us_names": [
+        "Turmeric",
+        "Curcumin"
+      ],
+      "synonyms": [
+        "curcumin",
+        "turmeric extract",
+        "turmeric yellow",
+        "natural yellow 3",
+        "ci 75300"
+      ],
+      "reactions": [
+        "contact dermatitis",
+        "skin redness (oral ingestion reactions unconfirmed)"
+      ],
+      "relevant_groups": [
+        "individuals with contact allergy to spices"
+      ],
+      "related_foods": [
+        "mustard",
+        "curry powder",
+        "confectionery",
+        "cheeses",
+        "margarines"
+      ],
+      "rarity": "Contact allergy is known, but ingestion-related allergic reactions are practically unknown in clinical challenge studies.",
+      "description": "Curcumin is the yellow pigment from turmeric that can irritate the skin upon direct contact, but rarely causes allergic problems when eaten.",
+      "weak_evidence_note": "Allergic reactions to swallowed curcumin are not supported by blinded medical evidence.",
+      "sources": [
+        {
+          "citation": "Journal of Food Allergy 2021",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11250194"
+        },
+        {
+          "citation": "Andreozzi et al. Acta Biomed 2019",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6502174"
+        }
+      ],
+      "reviewed_date": "2026-10-27"
+    },
+    {
+      "id": "caramel_plain",
+      "display_name": "Plain Caramel Colours (Class I & III)",
+      "class": "colour",
+      "origin": "semi-synthetic",
+      "tier": 3,
+      "e_numbers": [
+        "E150a",
+        "E150c"
+      ],
+      "ins_numbers": [
+        "150a",
+        "150c"
+      ],
+      "us_names": [
+        "Caramel color"
+      ],
+      "synonyms": [
+        "plain caramel",
+        "caustic caramel",
+        "ammonia caramel",
+        "caramel i",
+        "caramel iii",
+        "caramel colour",
+        "caramel color"
+      ],
+      "reactions": [
+        "non-allergic complaints (unconfirmed)"
+      ],
+      "relevant_groups": [
+        "consumers concerned about food colourings"
+      ],
+      "related_foods": [
+        "whiskey",
+        "spirits",
+        "baked goods",
+        "sauces"
+      ],
+      "rarity": "Allergic reactions are practically non-existent in clinical literature.",
+      "description": "Plain and ammonia caramel colourings are heated sugar products that do not contain sulfites and have an established record of allergy safety.",
+      "weak_evidence_note": "No immunologic allergic mechanism has been established for plain or ammonia caramel colours.",
+      "sources": [
+        {
+          "citation": "Journal of Food Allergy 2021",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11250194"
+        },
+        {
+          "citation": "Allergo Journal International 2022",
+          "url": "https://link.springer.com/article/10.1007/s40629-022-00203-y"
+        }
+      ],
+      "reviewed_date": "2026-10-27"
+    },
+    {
+      "id": "parabens",
+      "display_name": "Parabens (Methyl / Ethyl / Propylparaben)",
+      "class": "preservative",
+      "origin": "synthetic",
+      "tier": 3,
+      "e_numbers": [
+        "E214",
+        "E215",
+        "E218",
+        "E219"
+      ],
+      "ins_numbers": [
+        "214",
+        "215",
+        "218",
+        "219"
+      ],
+      "us_names": [
+        "Methylparaben",
+        "Propylparaben"
+      ],
+      "synonyms": [
+        "methylparaben",
+        "ethylparaben",
+        "propylparaben",
+        "methyl p-hydroxybenzoate",
+        "ethyl p-hydroxybenzoate",
+        "propyl p-hydroxybenzoate",
+        "paraben",
+        "parabens"
+      ],
+      "reactions": [
+        "contact eczema",
+        "skin redness (oral challenge unconfirmed)"
+      ],
+      "relevant_groups": [
+        "individuals with allergic contact dermatitis from cosmetics"
+      ],
+      "related_foods": [
+        "confectionery",
+        "processed fish pastes",
+        "artificially sweetened jellies"
+      ],
+      "rarity": "Contact dermatitis is common, but oral dietary allergy is rarely proven in controlled medical tests.",
+      "description": "Parabens are antimicrobial preservatives that can cause topical skin rashes, but do not reliably produce food allergy reactions when swallowed.",
+      "weak_evidence_note": "Oral challenge studies have failed to demonstrate reproducible food allergic reactions to parabens.",
+      "sources": [
+        {
+          "citation": "Journal of Food Allergy 2021",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11250194"
+        },
+        {
+          "citation": "Andreozzi et al. Acta Biomed 2019",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6502174"
+        }
+      ],
+      "reviewed_date": "2026-10-27"
+    }
+  ]
+}

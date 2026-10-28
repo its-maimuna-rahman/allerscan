@@ -1,0 +1,160 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "total_hand_curated": 150,
+    "total_scanned_cases": 17,
+    "total_run_together_cases": 12,
+    "total_negatives": 318,
+    "total_end_to_end_labels": 5,
+    "train_words_count": 1281,
+    "held_out_words_count": 321,
+    "held_out_ratio": 0.2
+  },
+  "timestamp": "2026-10-27T17:43:16Z",
+  "cost_weights": {
+    "silent_miss": 10.0,
+    "harmful": 10.0,
+    "false_possible": 1.0
+  },
+  "variant_a_baseline": {
+    "held_out_misspellings": {
+      "total": 48,
+      "corrected": 24,
+      "possible": 0,
+      "silent_misses": 24,
+      "accuracy": 0.5,
+      "coverage": 0.5,
+      "silent_miss_rate": 0.5
+    },
+    "train_misspellings": {
+      "total": 102,
+      "corrected": 70,
+      "possible": 0,
+      "silent_misses": 32,
+      "accuracy": 0.6863,
+      "coverage": 0.6863,
+      "silent_miss_rate": 0.3137
+    },
+    "all_misspellings": {
+      "total": 150,
+      "corrected": 94,
+      "possible": 0,
+      "silent_misses": 56,
+      "accuracy": 0.6267,
+      "coverage": 0.6267,
+      "silent_miss_rate": 0.3733
+    },
+    "negative_set": {
+      "total": 318,
+      "harmful_corrections": 4,
+      "harmful_rate": 0.0126,
+      "examples": [
+        [
+          "beans",
+          "besans"
+        ],
+        [
+          "pearl",
+          "pear"
+        ],
+        [
+          "price",
+          "rice"
+        ],
+        [
+          "raising",
+          "raisin"
+        ]
+      ]
+    },
+    "e2e_rate_1": {
+      "rate": "typo_rate_1",
+      "true_positives": 9,
+      "false_positives": 14,
+      "ground_truth_total": 22,
+      "recall": 0.4091,
+      "precision": 0.3913,
+      "f1": 0.4
+    },
+    "e2e_rate_2": {
+      "rate": "typo_rate_2",
+      "true_positives": 4,
+      "false_positives": 8,
+      "ground_truth_total": 22,
+      "recall": 0.1818,
+      "precision": 0.3333,
+      "f1": 0.2353
+    },
+    "cost_score_held_out": 280.0
+  },
+  "variant_b_layered": {
+    "held_out_misspellings": {
+      "total": 48,
+      "corrected": 43,
+      "possible": 2,
+      "silent_misses": 3,
+      "accuracy": 0.8958,
+      "coverage": 0.9375,
+      "silent_miss_rate": 0.0625
+    },
+    "train_misspellings": {
+      "total": 102,
+      "corrected": 93,
+      "possible": 2,
+      "silent_misses": 7,
+      "accuracy": 0.9118,
+      "coverage": 0.9314,
+      "silent_miss_rate": 0.0686
+    },
+    "all_misspellings": {
+      "total": 150,
+      "corrected": 136,
+      "possible": 4,
+      "silent_misses": 10,
+      "accuracy": 0.9067,
+      "coverage": 0.9333,
+      "silent_miss_rate": 0.0667
+    },
+    "scanned_metrics": {
+      "total": 17,
+      "corrected": 17,
+      "possible": 0,
+      "silent_misses": 0,
+      "accuracy": 1.0,
+      "coverage": 1.0
+    },
+    "negative_set": {
+      "total": 318,
+      "harmful_corrections": 0,
+      "harmful_rate": 0.0,
+      "examples": []
+    },
+    "e2e_rate_1": {
+      "rate": "typo_rate_1",
+      "true_positives": 20,
+      "false_positives": 14,
+      "ground_truth_total": 22,
+      "recall": 0.9091,
+      "precision": 0.5882,
+      "f1": 0.7143
+    },
+    "e2e_rate_2": {
+      "rate": "typo_rate_2",
+      "true_positives": 19,
+      "false_positives": 16,
+      "ground_truth_total": 22,
+      "recall": 0.8636,
+      "precision": 0.5429,
+      "f1": 0.6667
+    },
+    "speed": {
+      "typical_label_words": 23,
+      "typical_label_ms": 0.13,
+      "long_label_words": 460,
+      "long_label_ms": 2.59,
+      "target_typical_ms": "< 50 ms",
+      "target_met": true
+    },
+    "cost_score_held_out": 32.0
+  }
+}
